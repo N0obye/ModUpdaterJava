@@ -30,3 +30,12 @@ Java Development Kit (JDK) 11 or newer
 
 Apache Maven
 
+## **License**
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## **Author**
+
+Stupariu Norbert-Flavius
+
+Bachelor's thesis project.
